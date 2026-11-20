@@ -1,8 +1,8 @@
 # Friday 20 November 2026 — the world in one page
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-news--image--20261120-red)](https://make.fun/c/news-image-20261120)
-[![stories](https://img.shields.io/badge/stories-36-blue)](https://make.fun/c/news-image-20261120)
-[![typeface](https://img.shields.io/badge/typeface-Lexend%20(OFL)-green)](https://github.com/google/fonts/tree/main/ofl/lexend)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/flamsx/news-image-20261120-v3/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/flamsx/news-image-20261120-v3/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 Entry for the make.fun bounty **“Sum up 20 November's world news in one image”**
 ($250, top 50, closes 22 Nov 2026 07:00 WIB). One page, 36 stories across
